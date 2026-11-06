@@ -1,5 +1,7 @@
 # Hi, I'm Bhavitha G 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavithagolthila&label=Profile%20Views&color=0e75b6&style=flat)
+
 ### Computer Science & Design Engineering Graduate | 2026 Graduate
 
 I'm a Computer Science and Design Engineering graduate passionate about technology, software development, problem-solving and building practical applications.
